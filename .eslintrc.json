@@ -1,0 +1,25 @@
+{
+    "env": {
+        "es2020": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb-base",
+        "prettier/@typescript-eslint",
+        "plugin:prettier/recommended"
+    ],
+    "plugins": [
+        "prettier"
+      ],
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+        "prettier/prettier": "error",
+        "no-undef": "off",
+        "class-methods-use-this": "off",
+        "camelcase": "off",
+        "no-param-reassign": "off"
+    }
+}

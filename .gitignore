@@ -1,0 +1,8 @@
+node_modules
+
+build
+.env
+
+
+src/assets/uploads/animals/*
+!src/assets/uploads/animals/.gitkeep
