@@ -1,5 +1,5 @@
 # Versões dos softwares utilizados:
-  node v12.18.2
+  node v12.18.2  
   npm v6.14.5
 
 # Introdução
