@@ -5,3 +5,4 @@ build
 
 src/assets/uploads/animals/*
 !src/assets/uploads/animals/.gitkeep
+covarage
