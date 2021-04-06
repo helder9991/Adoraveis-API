@@ -1,9 +1,17 @@
+<p align="center">
+  <img src="https://github.com/helder9991/Adoraveis-WEB/blob/master/src/images/adoraveis.svg?raw=true" alt="Adoraveis"/>
+</p>
+
+
 # Versões dos softwares utilizados:
   node v12.18.2  
   npm v6.14.5
 
 # Introdução
-  Esse e um sistema para o gerenciamento de animais domésticos que se encontram em situação de vulnerabilidade. Onde um usuário pode cadastrar um animal para adoção em uma ONG (Região), ou também pode cadastrar um animal desaparecido. Vale ressaltar que os animais cadastrados por um usuário terão que ser previamentes aceitos pelas ONGs para começar a aparecer no sistema.
+  Esse é o backend do sistema de gerenciamento de animais domésticos que se encontram em situação de vulnerabilidade. Onde um usuário pode cadastrar um animal para adoção em uma ONG (Região), ou também pode cadastrar um animal desaparecido. Vale ressaltar que os animais cadastrados por um usuário terão que ser previamentes aceitos pelas ONGs para começar a aparecer no sistema.
+  
+# Adoráveis Frontend
+  Para conseguir utilizar corretamente o sistema, utilize o Frontend do sistema clicando <a href="https://github.com/helder9991/Adoraveis-WEB">aqui</a>
 
 # Como utilizar
 1 -  Crie o banco de dados com o nome ``adoraveis``
